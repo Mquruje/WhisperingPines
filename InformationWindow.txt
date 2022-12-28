@@ -16,11 +16,12 @@ E - Interact
 
 Recent updates:
 
-- New main menu [2.5.1]
-- Environmental Overhaul [2.5.1]
-- New autopsy system [2.5.1]
-- New death screen [2.5.1]
-- Rake AI rewrite [2.5]
+- New Render Distance Update Time option [2.5.4]
+- New Stinger option [2.5.4]
+- New Chase Theme option [2.5.4]
+- Huge performance improvements (again) [2.5.4]
+- Dynamic changes to night length for more fast paced and less repetitive [2.5.3]
+- Render Distance option [2.5.3]
 
 Tips:
 
