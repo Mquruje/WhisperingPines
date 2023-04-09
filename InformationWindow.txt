@@ -1,6 +1,10 @@
+Happy Easter! 
+Matthew 28:6 "He is not here; he has risen, just as he said..."
+God loves you! That's why he came down to earth as a man, to die for your sins. Then he defeated death!
 
-This game right now is not recieving large updates due to a new game being worked on! 
-This game will resume development after the new game is finished.
+John 3:16 "For God so LOVED the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+
+This game is currently being revamped.
 
 Combat is extremely discouraged. Never have your goal be to kill him, even in large numbers you are likely to fail. It's a survival game, not a fighting game.
 
@@ -15,16 +19,12 @@ E - Interact
 
 Recent updates:
 
-- New Render Distance Update Time option [2.5.4]
-- New Stinger option [2.5.4]
-- New Chase Theme option [2.5.4]
-- Huge performance improvements (again) [2.5.4]
-- Dynamic changes to night length for more fast paced and less repetitive [2.5.3]
-- Render Distance option [2.5.3]
+- Easter content - 2.5.8
+- Removal of the new stats due to popular demand :( - 2.5.8
+- Flower generation system - 2.5.8
+- Huge backend overhaul, [performance improvements] - 4123
 
 Tips:
-
-Sliding or crouching can reduce fall damage if timed correctly.
 
 Holding left click charges a melee weapon, the longer you hold it the more powerful it becomes HOWEVER if you hold it for too long it will start to decrease and randomize.
 
