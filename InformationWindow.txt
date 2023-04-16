@@ -1,8 +1,4 @@
-Happy Easter! 
-Matthew 28:6 "He is not here; he has risen, just as he said..."
-God loves you! That's why he came down to earth as a man, to die for your sins. Then he defeated death!
-
-John 3:16 "For God so LOVED the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 
 This game is currently being revamped.
 
@@ -19,8 +15,7 @@ E - Interact
 
 Recent updates:
 
-- Easter content - 2.5.8
-- Removal of the new stats due to popular demand :( - 2.5.8
+- Removal of Easter content - 2.5.9
 - Flower generation system - 2.5.8
 - Huge backend overhaul, [performance improvements] - 4123
 
