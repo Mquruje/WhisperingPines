@@ -15,9 +15,16 @@ E - Interact
 
 Recent updates:
 
-- Removal of Easter content - 2.5.9
-- Flower generation system - 2.5.8
-- Huge backend overhaul, [performance improvements] - 4123
+- Combat rework
+- Rake AI changes
+- New item(s)
+- Several new features
+- More performance
+- Removal of a few details for the sake of performance
+- Rebalancing of basically EVERYTHING
+- Late Halloween decorations
+- Many graphical changes
+- Much more
 
 Tips:
 
