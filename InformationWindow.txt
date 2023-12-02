@@ -1,8 +1,6 @@
 John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 
-This game is currently being revamped.
-
-We've heard rumors of a 2nd Rake? Please report this issue if you see it in game!
+This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed! 
 
 Combat is extremely discouraged. Never have your goal be to kill him, even in large numbers you are likely to fail. It's a survival game, not a fighting game.
 
@@ -17,11 +15,11 @@ E - Interact
 
 Recent updates:
 
+- Minor Christmas additions (more soon)
+- NEW Break Room! 
+    For the price of 100 credits you can be safe from the Rake to go afk. You cannot gain or lose survivals or credits while in the safe room, and you can leave whenever you want.
+- Bug fixes
 - Remastered player animations (see contributor menu for the beautiful man who made them)
-- Removal of Halloween Decorations
-- Changes to the menu camera & general stability
-- Flare Gun (Does not call a supply drop. Don't try it. Shoot Rake with it.)
-- Fixed crashing issue, caused by the blood system. Looking into this issue further.
 
 Tips:
 
