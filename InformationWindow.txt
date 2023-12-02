@@ -15,6 +15,7 @@ E - Interact
 
 Recent updates:
 
+- Cabin Overhaul
 - Minor Christmas additions (more soon)
 - NEW Break Room! 
     For the price of 100 credits you can be safe from the Rake to go afk. You cannot gain or lose survivals or credits while in the safe room, and you can leave whenever you want.
