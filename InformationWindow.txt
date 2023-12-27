@@ -2,7 +2,7 @@ John 3:16 "For God so loved the world that he gave his one and only Son, that wh
 
 This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed! 
 
-Combat is extremely discouraged. Never have your goal be to kill him, even in large numbers you are likely to fail. It's a survival game, not a fighting game.
+Combat is discouraged, even in large numbers you are likely to fail if you don't know what you're doing. It's a survival game, not a fighting game.
 
 Controls:
 
@@ -16,7 +16,8 @@ E - Interact
 Recent updates:
 
 - Cabin Overhaul
-- Minor Christmas additions (more soon)
+- 4 new melee items
+- Minor Christmas additions
 - NEW Break Room! 
     For the price of 100 credits you can be safe from the Rake to go afk. You cannot gain or lose survivals or credits while in the safe room, and you can leave whenever you want.
 - Bug fixes
@@ -26,7 +27,7 @@ Tips:
 
 Holding left click charges a melee weapon, the longer you hold it the more powerful it becomes HOWEVER if you hold it for too long it will start to decrease and randomize.
 
-The flare gun will cause Rake to run away if you shoot him. It does not call a supply drop.
+The flare gun will cause Rake to run away if you shoot him. It does not call a supply drop and it never will. Cry about it.
 
 The mystery boxes spawn around the map at night and include exclusive items. Test your luck, but don't be greedy!
 
