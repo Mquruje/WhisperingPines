@@ -15,9 +15,8 @@ E - Interact
 
 Recent updates:
 
-- Cabin Overhaul
-- 4 new melee items
-- Minor Christmas additions
+- EASTER EGGS BOIIII
+- Small changes
 - NEW Break Room! 
     For the price of 100 credits you can be safe from the Rake to go afk. You cannot gain or lose survivals or credits while in the safe room, and you can leave whenever you want.
 - Bug fixes
