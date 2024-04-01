@@ -2,8 +2,6 @@ John 3:16 "For God so loved the world that he gave his one and only Son, that wh
 
 This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed! 
 
-Combat is discouraged, even in large numbers you are likely to fail if you don't know what you're doing. It's a survival game, not a fighting game.
-
 Controls:
 
 W,A,S,D - Movement
@@ -15,12 +13,14 @@ E - Interact
 
 Recent updates:
 
+- 4/1/24 Update!!!
+    |
+    - Environment redesign
+    - New Rake textures
+    - New stats (Hunger)
+    - Blood Hour changes
 - EASTER EGGS BOIIII
-- Small changes
-- NEW Break Room! 
-    For the price of 100 credits you can be safe from the Rake to go afk. You cannot gain or lose survivals or credits while in the safe room, and you can leave whenever you want.
-- Bug fixes
-- Remastered player animations (see contributor menu for the beautiful man who made them)
+- Blood Hour added after a LOT of requesting.
 
 Tips:
 
