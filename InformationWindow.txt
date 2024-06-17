@@ -13,13 +13,11 @@ E - Interact
 
 Recent updates:
 
-- Blood Hour slightly reworked, easier to get in larger servers now
-- Rake target selection reworked, Rake now considers many different variables about each player while selecting them as a target, 
-- New Friendly Fire option (Players highlighted in red while holding a weapon have it enabled, if you also have ff enabled, then they can attack you.)
-- Fixed weapon bug where it just doesn't work
-- 4/1/24 reverted
-- Found a huge bug with saving options, fixed now.
-- Blood Hour added after a LOT of requesting.
+- NEW Polaroid camera item
+- Combat changes, Rake buffed and nerfed in some areas
+- Border rework
+- Map changes
+- Blood hour buffed
 
 Tips:
 
