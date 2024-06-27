@@ -13,11 +13,12 @@ E - Interact
 
 Recent updates:
 
-- NEW Polaroid camera item
-- Combat changes, Rake buffed and nerfed in some areas
-- Border rework
-- Map changes
-- Blood hour buffed
+- Brand new Rake state "Crowd Control" designed to help Rake fight back against groups.
+- Survival rework
+- Survival streaks + badges + rewards for getting streaks
+- A lot of new badges
+- Balanced EMF Reader
+- Balance changes
 
 Tips:
 
@@ -25,7 +26,7 @@ Holding left click charges a melee weapon, the longer you hold it the more power
 
 Players highlighted in red while holding a weapon have Friendly Fire enabled, if you also have Friendly Fire enabled, then they can attack you.
 
-The flare gun will cause Rake to run away if you shoot him. It does not call a supply drop and it never will. Cry about it.
+The flare gun will cause Rake to run away if you shoot him. It does not call a supply drop.
 
 The mystery boxes spawn around the map at night and include exclusive items. Test your luck, but don't be greedy!
 
