@@ -10,15 +10,12 @@ C - Crouch
 LShift + C - Slide
 LMB - Use Item
 E - Interact
+X - Drop Item
 
 Recent updates:
 
-- Brand new Rake state "Crowd Control" designed to help Rake fight back against groups.
-- Survival rework
-- Survival streaks + badges + rewards for getting streaks
-- A lot of new badges
-- Balanced EMF Reader
-- Balance changes
+- Brand new behavior state "Crowd Control" designed to help Rake fight back against groups.
+- Item Dropping
 
 Tips:
 
