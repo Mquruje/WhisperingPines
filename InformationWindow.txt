@@ -14,7 +14,7 @@ X - Drop Item
 
 Recent updates:
 
-- Brand new behavior state "Crowd Control" designed to help Rake fight back against groups.
+- New looting overhaul (early version!)
 - Item Dropping
 
 Tips:
@@ -23,7 +23,7 @@ Holding left click charges a melee weapon, the longer you hold it the more power
 
 Players highlighted in red while holding a weapon have Friendly Fire enabled, if you also have Friendly Fire enabled, then they can attack you.
 
-The flare gun will cause Rake to run away if you shoot him. It does not call a supply drop.
+The flare gun will cause it to run away if you shoot him. It does not call a supply drop.
 
 The mystery boxes spawn around the map at night and include exclusive items. Test your luck, but don't be greedy!
 
