@@ -14,8 +14,14 @@ X - Drop Item
 
 Recent updates:
 
-- New looting overhaul (early version!)
-- Item Dropping
+- Sliding now drains extra stamina
+- Christmas decorations & snow
+- Removal of the old 'scavenge' system
+- Item spawning refined
+- New seasonal consumable item(s)
+- New 2x Credits gamepass
+- New Christmas badge (awarded on join)
+- Changes to tower lights
 
 Tips:
 
