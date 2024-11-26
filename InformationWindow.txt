@@ -14,14 +14,11 @@ X - Drop Item
 
 Recent updates:
 
-- Sliding now drains extra stamina
-- Christmas decorations & snow
-- Removal of the old 'scavenge' system
-- Item spawning refined
-- New seasonal consumable item(s)
-- New 2x Credits gamepass
-- New Christmas badge (awarded on join)
-- Changes to tower lights
+- Rebalanced stats
+- New nametag system
+- New Camera bobbing
+- Bug fixes
+- Fixed respawn system
 
 Tips:
 
