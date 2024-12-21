@@ -1,6 +1,7 @@
 John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 
-This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed! 
+This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed!
+Suggestions will most likely not be added to this game, rather to the revamp game coming soon!
 
 Controls:
 
@@ -14,20 +15,8 @@ X - Drop Item
 
 Recent updates:
 
-- Rebalanced stats
-- New nametag system
-- New Camera bobbing
+- CHRISTMAS PHASE 3
+- Removed some combat items to remove clutter in the shop (You don't need 3 items that do the same thing)
+- Lowered price of the Taurus Judge in the shop (Credits price specifically)
+- Added a new round state that happens every 10 nights!
 - Bug fixes
-- Fixed respawn system
-
-Tips:
-
-Holding left click charges a melee weapon, the longer you hold it the more powerful it becomes HOWEVER if you hold it for too long it will start to decrease and randomize.
-
-Players highlighted in red while holding a weapon have Friendly Fire enabled, if you also have Friendly Fire enabled, then they can attack you.
-
-The flare gun will cause it to run away if you shoot him. It does not call a supply drop.
-
-The mystery boxes spawn around the map at night and include exclusive items. Test your luck, but don't be greedy!
-
-Never stand still and constantly check your back, always be cautious when turning a corner because he might be waiting.
