@@ -15,8 +15,15 @@ X - Drop Item
 
 Recent updates:
 
-- CHRISTMAS PHASE 3
-- Removed some combat items to remove clutter in the shop (You don't need 3 items that do the same thing)
-- Lowered price of the Taurus Judge in the shop (Credits price specifically)
-- Added a new round state that happens every 10 nights!
-- Bug fixes
+MINIPATCH!
+
+- NEW Headlamp item
+- NEW Antique Helmet item
+- Improved mobile controls for item dropping & Taurus Judge
+- Slight rebalance to armor
+- Slight buffs to the Dover Demon
+- Improvements to hitreg for melee items (not noticeable)
+- Hitmarker sound & visual for when you successfully land a hit
+- Bug fixes regarding credit/survival calculation
+- Credits are taxed based on when your last login was, but you have 30 minutes of grace
+- Sliding nerfed
