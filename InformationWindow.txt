@@ -23,3 +23,4 @@ MINIPATCH!
 - Bug fixes regarding credit/survival calculation
 - Credits are taxed based on when your last login was, but you have 30 minutes of grace
 - Sliding nerfed
+- New gamepasses, check them out! Thank you for supporing us!
