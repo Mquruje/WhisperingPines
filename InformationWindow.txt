@@ -1,5 +1,3 @@
-John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-
 This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed!
 Suggestions will most likely not be added to this game, rather to the revamp game coming soon!
 
@@ -12,8 +10,6 @@ LShift + C - Slide
 LMB - Use Item
 E - Interact
 X - Drop Item
-
-Recent updates:
 
 MINIPATCH!
 
