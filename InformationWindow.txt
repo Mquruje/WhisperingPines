@@ -13,13 +13,11 @@ X - Drop Item
 
 BUG FIXES
 
-- Fixed the Dover Demon getting sneaky hits in combat
-- Fixed hitboxes
-- New hitbox visualizer option
-- Data regarding most settings have been reset due to the new option.
-- More secure Data saving (Data now autosaves every few minutes)
-- No longer can die in the menu
-- Removed Herobrine
-- Starterpack flashlight now completely replaces the Lantern (no need in having the lantern when u have a flashlight)
-- Adjusted item spawning odds
-- Fixed 'false survival screen' (hopefully)
+- New chase effects & stinger rework, most notable change being a new heartbeat effect (huge performance increase from what I've tested)
+- Camera temporarily removed
+- EMF reader less likely to show false detections
+- More accurate detection for chases
+- New "Shop" button in the main menu
+- Fixed bugs with heartbeat
+- Fixes bugs with autopsy/cause of death system
+- Jumpscare happens consistently now (because of the above)
