@@ -11,13 +11,16 @@ LMB - Use Item
 E - Interact
 X - Drop Item
 
-BUG FIXES
+UPDATE: Patches 1-2
 
-- New chase effects & stinger rework, most notable change being a new heartbeat effect (huge performance increase from what I've tested)
-- Camera temporarily removed
-- EMF reader less likely to show false detections
-- More accurate detection for chases
-- New "Shop" button in the main menu
-- Fixed bugs with heartbeat
-- Fixes bugs with autopsy/cause of death system
-- Jumpscare happens consistently now (because of the above)
+-STREAK SAVING!
+Only saves if you are not in danger / the servers are restarting
+You have a 20 minute time limit to claim your streak before it's gone
+- New option to hide equipped items
+
+- Option to disable Starterpack items and spawn with an upgraded lantern instead
+- Flashlights buffed
+- Item drops spawn rate adjusted
+- Crucifix product available in the shop (bought with Robux)
+- WP 2.8 (pre False Salvation update) now available as a legacy version
+- Item spawn rates decreased [Needs feedback]
