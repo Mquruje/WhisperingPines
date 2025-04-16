@@ -1,4 +1,4 @@
-This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed!
+This game is currently being revamped. Please have patience and report any bugs you find, but we cannot guarantee it'll be fixed immediately!
 Suggestions will most likely not be added to this game, rather to the revamp game coming soon!
 
 Controls:
@@ -11,16 +11,17 @@ LMB - Use Item
 E - Interact
 X - Drop Item
 
-UPDATE: Patches 1-2
+Information - 
 
--STREAK SAVING!
-Only saves if you are not in danger / the servers are restarting
-You have a 20 minute time limit to claim your streak before it's gone
-- New option to hide equipped items
+Data Saving:
+Credits, Items & Survival Streaks all save temporarily for one hour.
+Items & Survival streaks are lost after one hour, credits however will slowly be reduced after the one hour period. The amount that is subtracted depends on how much you have, it's divided. Do not report lost Credits, Streaks, or Items. ONLY Survivals save 100%. If you experience Survival loss, please report it using our Report system in the in game menu.
 
-- Option to disable Starterpack items and spawn with an upgraded lantern instead
-- Flashlights buffed
-- Item drops spawn rate adjusted
-- Crucifix product available in the shop (bought with Robux)
-- WP 2.8 (pre False Salvation update) now available as a legacy version
-- Item spawn rates decreased [Needs feedback]
+Combat:
+Combat is not the primary focus of the game, but apparently it's what the community wants. You can often find people in the game who do nothing but try and fight back.
+
+The Demon cannot be killed, but he will retreat after a while. However many players seem to not understand how combat works, that's okay! That is why this menu exists!
+
+Crowd Control Mode:
+If you see the Demon covering his face during a fight, that means he is blocking all attacks. If you get close, he will shove you back. If you attack him during this state, you will actually restore part of his health (that's why so many nights fighting him are extremely long!)
+He will naturally leave this state if he is simply left alone. Attacking him heals him but it also adds more time to this mode. but if you leave him alone when he does this, he will quickly return to the usual offense mode.
