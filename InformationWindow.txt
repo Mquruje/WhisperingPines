@@ -10,8 +10,7 @@ LShift + C - Slide
 LMB - Use Item
 E - Interact
 X - Drop Item
-
-Information - 
+Q - Over-the-shoulder view
 
 Data Saving:
 Credits, Items & Survival Streaks all save temporarily for one hour.
@@ -20,8 +19,4 @@ Items & Survival streaks are lost after one hour, credits however will slowly be
 Combat:
 Combat is not the primary focus of the game, but apparently it's what the community wants. You can often find people in the game who do nothing but try and fight back.
 
-The Demon cannot be killed, but he will retreat after a while. However many players seem to not understand how combat works, that's okay! That is why this menu exists!
-
-Crowd Control Mode:
-If you see the Demon covering his face during a fight, that means he is blocking all attacks. If you get close, he will shove you back. If you attack him during this state, you will actually restore part of his health (that's why so many nights fighting him are extremely long!)
-He will naturally leave this state if he is simply left alone. Attacking him heals him but it also adds more time to this mode. but if you leave him alone when he does this, he will quickly return to the usual offense mode.
+The Spinewalker cannot be killed, but he will retreat after a while. However many players seem to not understand how combat works, that's okay! That is why this menu exists!
